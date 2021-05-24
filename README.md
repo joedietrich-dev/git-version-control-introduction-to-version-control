@@ -122,7 +122,7 @@ co-worker told us about and we can _try_ to replace our old code with this new i
 We can read about a new feature provided in a framework and _try_ it out in our
 old code. **VCS helps us be unafraid to try new and improved techniques**.
 
-> **ASIDE** The programmer, entrepreneur, and venture capitalist Paul Graham
+> **ASIDE**: The programmer, entrepreneur, and venture capitalist Paul Graham
 > notes that oil paints unlocked a revolution in experimentation in visual arts
 > because they were undo-able. Oils provided the **freedom** to err and recover
 > that other paint media did not provide (e.g. watercolor). Because of this
