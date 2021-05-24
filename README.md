@@ -182,8 +182,8 @@ work in practice—that part will come later.
   the "sandboxes" we mentioned earlier).
 - **`main` branch**: For the moment, just remember this: by default, when you 
   create a Git repo, you will be working on the `main` branch. For many years, the
-  default branch for a Git repo was called `master`, so you may see this older
-  convention often on projects created before 2020. 
+  default branch for a Git repo was named `master`, so you will see this convention 
+  often on projects created before 2020. 
 
 ## Conclusion
 
