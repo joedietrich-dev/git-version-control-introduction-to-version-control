@@ -180,8 +180,10 @@ work in practice—that part will come later.
 - **branch**: The combined history of all the changes of all the files in the repo. 
   You'll learn in advanced Git that a repo can support multiple branches (those are 
   the "sandboxes" we mentioned earlier).
-- **`master` branch**: For the moment, just remember this: by default, when you 
-  create a Git repo, you will be working on the `master` branch.
+- **`main` branch**: For the moment, just remember this: by default, when you 
+  create a Git repo, you will be working on the `main` branch. For many years, the
+  default branch for a Git repo was called `master`, so you may see this older
+  convention often on projects created before 2020. 
 
 ## Conclusion
 
