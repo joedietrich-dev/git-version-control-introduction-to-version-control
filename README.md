@@ -177,10 +177,11 @@ work in practice—that part will come later.
   _remote_ source and have a copy of that directory on our own system. We call
   the repo on our personal system the _local_ repo. (We'll talk more about the
   "clone" command later.)
-- **`master` branch**: You'll learn in advanced Git that a repo can support multiple
-  branches (we called those "sandboxes" earlier). For the moment, just remember this:
-  by default, when you create a Git repo, you will be working on the `master` branch.
-- **branch**: The combined history of all the changes of all the files in the repo.
+- **branch**: The combined history of all the changes of all the files in the repo. 
+  You'll learn in advanced Git that a repo can support multiple branches (those are 
+  the "sandboxes" we mentioned earlier).
+- **`master` branch**: For the moment, just remember this: by default, when you 
+  create a Git repo, you will be working on the `master` branch.
 
 ## Conclusion
 
